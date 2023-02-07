@@ -1,5 +1,5 @@
 
-## Oi, eu sou o KoAllan 🐨, estudante de ADS na SPTech e estagiário na Vericode!
+## Oi, eu sou o KoAllan 🐨, estudante de ADS na SPTech em busca de um emprego!
 <div align="center">
   <a href="https://github.com/AllanAraujoBernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanAraujoBernardo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
